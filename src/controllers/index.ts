@@ -6,3 +6,8 @@ export * from './picture-vehicle.controller';
 export * from './vehicle-picture.controller';
 export * from './vehicle-supplier.controller';
 export * from './supplier-vehicle.controller';
+export * from './brand.controller';
+export * from './cathegory.controller';
+export * from './supplier.controller';
+export * from './photo.controller';
+export * from './vehicle.controller';
