@@ -1,5 +1,7 @@
-export * from './brand.model';
-export * from './cathegory.model';
-export * from './supplier.model';
-export * from './picture.model';
-export * from './vehicle.model';
+export * from './Brand.model';
+export * from './Cathegory.model';
+export * from './Picture.model';
+export * from './Supplier.model';
+export * from './Vehicle.model';
+
+export * from './cathegory-vehicle.model';
